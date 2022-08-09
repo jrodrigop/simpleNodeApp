@@ -1,0 +1,22 @@
+{
+  "name": "simplenodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrodrigop/simpleNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrodrigop/simpleNodeApp/issues"
+  },
+  "homepage": "https://github.com/jrodrigop/simpleNodeApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
