@@ -12,6 +12,6 @@ app.get('/sum', (req, res) => {
 })
 
 
-app.listen(8000, () => {
-    console.log(`App ready`)
+app.listen(process.env.PORT, () => {
+    console.log(`App ready` + process.env.PORT)
 })
